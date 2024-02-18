@@ -1,0 +1,1 @@
+# laravel-role-permission-spatie-with-tailwindCSS-in-laravel-10
